@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Processed data
+dataset/processed/**/*
+
+# Grib indexes
+dataset/**/*.idx
+
+# Plot output
+plot.png
+
+# matplotlib config file
+matplotlibrc
