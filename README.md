@@ -6,6 +6,7 @@ Simplified CAMS deeplearning ensemble preprocessing script
 Be sure to have `git` and `git-lfs` installed then clone this project:
 ```sh
 git clone https://github.com/meteofrance/tmp-cams-simple-preprocessing.git
+cd tmp-cams-simple-preprocessing
 ```
 
 Use the prepared `Dockerfile` to build the project's image:
